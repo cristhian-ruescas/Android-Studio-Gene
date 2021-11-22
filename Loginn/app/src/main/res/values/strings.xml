@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loginn</string>
+    <string name="text1">Seja bem vindo ao App!</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="username">Username</string>
+    <string name="n_o_tem_conta_registre_se">Não tem conta? Registre-se</string>
+    <string name="link">
+        <a href="https://genrecruiting.generation.org/choose-country">Registre-se</a>
+    </string>
+    <string name="sem_conta">Não tem conta?</string>
+</resources>
